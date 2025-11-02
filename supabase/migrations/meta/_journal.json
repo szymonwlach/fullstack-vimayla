@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1751388516225,
+      "tag": "0000_talented_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751388639891,
+      "tag": "0001_wide_magus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752324937878,
+      "tag": "0002_striped_korg",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752493986836,
+      "tag": "0003_lying_speed",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1752679951976,
+      "tag": "0004_glossy_cyclops",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1753378460899,
+      "tag": "0005_slow_veda",
+      "breakpoints": true
+    }
+  ]
+}

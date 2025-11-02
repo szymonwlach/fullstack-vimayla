@@ -1,0 +1,1 @@
+ALTER TABLE "learning_paths" RENAME COLUMN "estimed_time" TO "estimated_time";
